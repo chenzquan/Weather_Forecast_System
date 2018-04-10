@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_9f8dfaf27eb2827def2d87ef102d3e1993e3362a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\权\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_dc5e38fc4df523460360251909d1cb6091490955\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_e4e58d1d63dcb401e6812e75d9a6ba811b449f1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="13e520681c9bff17c561deae762df1597f3e764c">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a939b5980283bb074644e74278fde7941b892c25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\权\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_c83182ea0da236b2bb76d9dbe56b4f1f0c8a609f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_68d184b007ef5594ebcbb651c6d9a405344cc480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cc0ae27fdbeebbedaeb5847e046532bf273ab9f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_eeb17d55bc3c4231f2959f92658af670464c9ca0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_e13fb110c6c5bd358e7c5ba1e20070dfa33e7511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_cf07903cfda524fa7bd0445c53d7aff4cbe06708\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_adf708023a4d66fb357d1bff03aac394c594446c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_36bae38ef0f7458296cc523163268221e12ded0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\权\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_803d0fbd2fb7b97bb2ae0ab34c9a326dc3a0ba79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_03b6f6b5c4f0900892f24412ffa431545836a23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b160d57762ccac1fc7957c7d9795ff1b46cf6ba2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_d9f57adaf764f490ff39814eeb13c292a4fed428\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_8fe059b6ba410f6a6e4d8e2ecbf34314cb82f661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_12cb4c514eb8de913e0e697dd02080f55321e50f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_b42cf2717dd0edc7de70f26f3d7eccbbc248d37f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\权\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.9.1\84b4b7d1c4a238e7899972b7446c250691e65f1f\okhttp-3.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.9.1_bf5f61c32910a0cd397970c735eb7545151160c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_d997eccfbf924c142a54fa987fc3dca0d49814c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fedcc5e712b46953122a0b2d14d301aa9445fb0d">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9b29bb035d3db3a92391ed1d9f674b4d26b2db0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\org.litepal.android\core\1.4.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2ed5d8f90fadbfa1098d859cda836de0dc31d265">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.litepal.android-core-1.4.1_8c230b50804488b71fbe17ac672d3e99d8deaa66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\AndroidStudioProjects\Weather_Forecast_System\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_3f7abc867b58bdc382142fa5f9664d3a2c1654be\classes.dex" />
+    </item>
+
+</items>
